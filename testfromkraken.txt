@@ -1,1 +1,1 @@
-while <> do echo "blabla" > /dev/null
+while <> do echo "blabla2" > /dev/null
